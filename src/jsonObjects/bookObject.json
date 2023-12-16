@@ -1,0 +1,16 @@
+{
+  "book" : {
+    "book_id" : "82e87487-3d3e-4578-ad80-4a55bfb2b977",
+    "title" : "His Little Wolf",
+    "description" : "This is a book about werewolves",
+    "cover" : "https://www.cover.link",
+    "status" : "APPROVED",
+    "deleted" : false,
+    "created_at" : "date",
+    "creator" : {
+      "creator_id" : "482931849-ds32342-fsd2432",
+      "name" : "Steven",
+      "surname" : "King"
+    }
+  }
+}

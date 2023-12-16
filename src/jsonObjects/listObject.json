@@ -1,0 +1,12 @@
+{
+  "list" : {
+    "books": [
+      { "book_id": "id1", "title" : "name1" },
+      { "book_id": "id2", "title" :  "name2"}
+    ],
+    "list_id": "string",
+    "size": 15,
+    "title": "Name",
+    "type": "list_type"
+  }
+}
